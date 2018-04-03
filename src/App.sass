@@ -39,7 +39,33 @@ body
   grid-column-gap: 10px
   grid-row-gap: 10px
 
+.detail-item
+  grid-column-start: 1
+  grid-column-end: -1
+  grid-row-start: 1
+  grid-row-end: -1
+  font-weight: bold
+  font-size: large
+  display: flex
+  align-items: center
+  justify-content: center
+  text-decoration: none
+  color: #292f33
+  justify-self: center
+  align-self: center
+  width: 100%
+  height: 100%
+  background-color: white
+
+
 .item
+  font-weight: bold
+  font-size: large
+  display: flex
+  align-items: center
+  justify-content: center
+  text-decoration: none
+  color: #292f33
   justify-self: center
   align-self: center
   width: 100%
@@ -81,7 +107,7 @@ body
   to
     transform: rotate(360deg)
 
-@media (max-width: 1000px)
+@media (max-width: 1200px)
   .info
     display: none!important
   .sidebar
@@ -91,9 +117,12 @@ body
   .background
     grid-area: 2 / 1 / 15 / 24
   .item-container
+    padding: 10px
     grid-area: 2 / 1 / 15 / 24
     grid-template-columns: repeat(1,1fr)
     grid-template-rows: repeat(7,1fr)
+    .detail-item
+      grid-row-end: auto
   .container
     height: auto
   .sidebar-text
