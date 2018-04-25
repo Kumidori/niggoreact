@@ -138,8 +138,8 @@
           <file leaf-file-name="App.sass" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/App.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+                <state relative-caret-position="487">
+                  <caret line="237" column="16" lean-forward="true" selection-start-line="237" selection-start-column="16" selection-end-line="237" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -320,7 +320,7 @@
       <workItem from="1524588151893" duration="18000" />
       <workItem from="1524596164511" duration="1347000" />
       <workItem from="1524597969532" duration="253000" />
-      <workItem from="1524598232953" duration="12006000" />
+      <workItem from="1524598232953" duration="12893000" />
     </task>
     <task id="LOCAL-00001" summary="Added Exercise 2">
       <created>1524617287434</created>
@@ -333,7 +333,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63749000" />
+    <option name="totallyTimeSpent" value="64636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -798,8 +798,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        <state relative-caret-position="487">
+          <caret line="237" column="16" lean-forward="true" selection-start-line="237" selection-start-column="16" selection-end-line="237" selection-end-column="16" />
           <folding />
         </state>
       </provider>
